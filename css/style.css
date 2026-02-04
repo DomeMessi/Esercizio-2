@@ -17,7 +17,7 @@ body {
   font-family: "Lato";
   font-weight: bold;
   color: #E2413F;
-  background-image: url("../img/immagini/sfondo.png");
+  background-image: "../img/immagini/sfondo.png";
   background-repeat: no-repeat;
   background-size: auto;
   overflow-x: hidden;
